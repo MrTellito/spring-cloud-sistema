@@ -4,7 +4,7 @@ message: Configuracion de Cajero en el servidor levantado!
 spring:
   datasource:
     driver-class-name: com.mysql.cj.jdbc.Driver
-    password: 12345678
+    password: 123456789
     url: jdbc:mysql://localhost:3306/cajeroo-service?serverTimezone=UTC
     username: root
   jpa:
